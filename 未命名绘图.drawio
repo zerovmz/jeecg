@@ -189,6 +189,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xq2g6MedZjjFbTOwL8Yl-39" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Compute_Galleries.svg;" vertex="1" parent="1">
+          <mxGeometry x="767" y="80" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xq2g6MedZjjFbTOwL8Yl-40" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Managed_Service_Fabric.svg;" vertex="1" parent="1">
+          <mxGeometry x="547" y="659" width="68" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
